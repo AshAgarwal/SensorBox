@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorBox</string>
+    <string name="accelerometer">Accelerometer:</string>
+    <string name="undefinedValue">---</string>
+    <string name="siUnit">m/s²</string>
+    <string name="gravity">Gravity:</string>
+</resources>
